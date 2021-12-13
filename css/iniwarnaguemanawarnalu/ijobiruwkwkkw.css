@@ -1,0 +1,63 @@
+/* SAMLEKOM MHAMANK BY WAFA RIFKI ANAFIN */
+/*--------------------------------------------------------------------- */
+
+.page-title span {color: #37A58C;}
+
+.name-area h1 {background: #748ad8;}
+
+.menu .active {background: #748ad8;}
+
+.menu .active .bullet {background-image: url("../../img/bullets/menu_bullet_turq.png");}
+
+.menu .active i {color: #F0F0F0; border-top: 2px solid #e7c2bd;}
+
+.submenu a:hover, .submenu a.active, .submenu-active span, .submenu-active i {color: rgb(64, 177, 206);}
+
+.button-bar {background-color: #37A58C;}
+
+.button:hover {background: #F0F0F0; color: rgb(89, 81, 165);}
+
+.social-networks a:hover i {color: #37A58C;}
+
+#profile {background-color: #748ad8;}
+
+.profile-tabs .active {background: rgb(64, 177, 206);}
+
+.process-part .icon-box i {color: rgb(64, 177, 206);}
+
+.filter .selected i, .filter .selected span {color: rgb(64, 177, 206);}
+
+.portfolio-item span {color: rgb(64, 177, 206);}
+
+.portfolio-item:hover {background: rgb(64, 177, 206);}
+
+.overlay .bullet {width: 26px; height: 12px; background-image: url('../../img/bullets/portfolio_bullet_turq.png');}
+
+.resume-icon-box {background: rgb(64, 177, 206);}
+
+.resume-content-box span {color: ;}
+
+.resume-bullet-right {background-image: url('../../img/bullets/resume_bullet_right_turq.png');}
+
+.resume-bullet-left {background-image: url('../../img/bullets/resume_bullet_left_turq.png');}
+
+.resume-bullet-bottom {background-image: url('../../img/bullets/resume_bullet_bottom_turq.png');}
+
+.post-preview-content-box span {color: rgb(64, 177, 206);}
+
+#blog a {color: rgb(64, 177, 206);}
+
+.post-icon-box {background: rgb(64, 177, 206);}
+
+.post-bullet-right {background-image: url('../../img/bullets/resume_bullet_right_turq.png');}
+
+.sidebar .tags li a:hover {color: rgb(64, 177, 206); !important;}
+
+.skill-tip {background: rgb(64, 177, 206);}
+
+.award-header {background: rgb(64, 177, 206);}
+
+#contact {background-color: rgb(64, 177, 206);}
+
+.contact-details i {color: rgb(64, 177, 206);}
+
